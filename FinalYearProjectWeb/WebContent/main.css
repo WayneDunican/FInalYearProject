@@ -1,0 +1,48 @@
+@CHARSET "ISO-8859-1";
+.boxedImage{
+	display: block;
+	width: 200px;
+	float: left;
+	border: 3px solid blue;
+	padding: 2px;
+}
+.headerImage{
+	width:300px;
+    overflow: auto; 
+}
+html{
+	
+}
+body{
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Questrial', sans-serif;
+	font-size: 12pt;
+	color: rgba(0,0,0,.6);
+}
+section{
+	float:right;
+}
+#blue{
+	color:blue;
+	float:right;
+}
+nav{
+	position:left;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding-top: 150px;
+    height: 100%; /* Full height */
+    position: fixed; /* Make it stick, even on scroll */
+    overflow: auto; 
+} 
+li img {
+    display: block;
+    width: 60px;
+}
+li img:hover {
+    background-color: #555;
+    color: white;
+}
