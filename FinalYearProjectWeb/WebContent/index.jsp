@@ -26,7 +26,7 @@
 <body>
 
     <!-- Navigation -->
-    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
         <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header">
@@ -36,7 +36,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.html" style="color:white;">GAA Player Training and Nutrition</a><img src="images/gaa.png" width="55"></img>
+                <a class="navbar-brand" href="index.html" ><img src="images/gaa.png" width="35" style="float:left; padding-right:10px;"></img> Player Training and Nutrition</a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -126,7 +126,7 @@
             <div class="col-md-4">
                 <div class="panel panel-default">
                     <div class="panel-heading">
-                        <h4><i class="fa fa-fw fa-bicycle"></i> Monitoring Training</h4>
+                        <h4><i class="fa fa-fw fa-bicycle"></i> Training <span class="label label-primary">New</span></h4>
                     </div>
                     <div class="panel-body">
                         <p>When a player is playing for two/three different teams, it’s very hard to ensure their players are getting the required level and style of training in their day. To aid this, this application will allow communication between managers at ease in conjunction with their players. </p>
@@ -137,10 +137,10 @@
             <div class="col-md-4">
                 <div class="panel panel-default">
                     <div class="panel-heading">
-                        <h4><i class="fa fa-fw fa-futbol-o"></i> GAA</h4>
+                        <h4><i class="fa fa-fw fa-futbol-o"></i> Performance</h4>
                     </div>
                     <div class="panel-body">
-                        <p></p>
+                        <p>The players performance through training and their progress in the gym will be recorded and reported at the end of every session. The player’s own view of his/her performance and their manager’s view (where applicable) will be logged. </p>
                         <a href="#" class="btn btn-default">Learn More</a>
                     </div>
                 </div>
@@ -148,7 +148,7 @@
             <div class="col-md-4">
                 <div class="panel panel-default">
                     <div class="panel-heading">
-                        <h4><i class="fa fa-fw fa-spoon"></i> Nutritional Advice and Monitoring</h4>
+                        <h4><i class="fa fa-fw fa-spoon"></i> Nutritional</h4>
                     </div>
                     <div class="panel-body">
                         <p>Aside from training, nutrition is also a key factor. One manager might want their player to follow a certain diet plan to bulk up, whereas the other manager might have a different opinion of that diet plan.</p>
@@ -159,7 +159,7 @@
         </div>
         <!-- /.row -->
 
-        <!-- Portfolio Section -->
+    <!--     Portfolio Section
         <div class="row">
             <div class="col-lg-12">
             </div>
@@ -194,8 +194,8 @@
                 </a>
             </div>
         </div>
-        <!-- /.row -->
-
+        /.row
+ -->
        
 
         <hr>
