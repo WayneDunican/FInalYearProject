@@ -13,7 +13,7 @@
     <meta name="author" content="">
 
     <title>GAA Player Training and Nutrition</title>
-	<link rel="icon" href="images/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="images/gaa.ico" type="image/x-icon">
 
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
@@ -117,7 +117,7 @@
                 <h1 class="page-header">
                     GAA Player Monitoring
                 </h1>
-				<p>A committed GAA player can potentially be playing for up to three different teams – Club Team, County Team and their College Team. It’s very hard for a player to juggle the demands set on him by each team, and no manager fully knows the match and training schedule the other teams have so as to work around. A way in which to solve this issue is to design an application that the player and manager can access, upload his/her training done on any given day, their daily calorie intake, any additional gym work done, supplements intake etc. </p>
+				<p>A committed GAA player can potentially be playing for up to three different teams - Club Team, County Team and their College Team. It's very hard for a player to juggle the demands set on him by each team, and no manager fully knows the match and training schedule the other teams have so as to work around. A way in which to solve this issue is to design an application that the player and manager can access, upload his/her training done on any given day, their daily calorie intake, any additional gym work done, supplements intake etc. </p>
             </div>
             <hr>
             <div class="col-md-4">
@@ -127,10 +127,10 @@
                         <h4><i class="fa fa-fw fa-bicycle"></i> Training <span class="label label-primary">New</span></h4>
                     </div>
                     <div class="panel-body">
-                    	<img src="http://m0.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTcwOiJhOjM6e3M6MzoidXJsIjtzOjEwODoiaHR0cDovL21lZGlhLXNwb3J0c2pvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8wMS8xNDE3MzQ0NC9IdXJsaW5nLXNub3cuanBnIjtzOjU6IndpZHRoIjtpOjY0NztzOjY6ImhlaWdodCI7aTozNDA7fSI7czo0OiJoYXNoIjtzOjQwOiIwMTUxZDQ3MTZhNmIxMTcyOTMwNGE1NjFhZjZkOTUzNmVkNTRmZWFhIjt9/hurling-snow.jpg" width="100%"/>
+                    	<a href="training.jsp"><img src="http://m0.sportsjoe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTcwOiJhOjM6e3M6MzoidXJsIjtzOjEwODoiaHR0cDovL21lZGlhLXNwb3J0c2pvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8wMS8xNDE3MzQ0NC9IdXJsaW5nLXNub3cuanBnIjtzOjU6IndpZHRoIjtpOjY0NztzOjY6ImhlaWdodCI7aTozNDA7fSI7czo0OiJoYXNoIjtzOjQwOiIwMTUxZDQ3MTZhNmIxMTcyOTMwNGE1NjFhZjZkOTUzNmVkNTRmZWFhIjt9/hurling-snow.jpg" width="100%"/></a>
                        	<hr>
-                        <p>When a player is playing for two/three different teams, it’s very hard to ensure their players are getting the required level and style of training in their day. To aid this, this application will allow communication between managers at ease in conjunction with their players. </p>
-                        <a href="#" class="btn btn-default">Learn More</a>
+                        <p>When a player is playing for two/three different teams, it's very hard to ensure their players are getting the required level and style of training in their day. To aid this, this application will allow communication between managers at ease in conjunction with their players. </p>
+                        <a href="training.jsp" class="btn btn-default">Learn More</a>
                     </div>
                 </div>
             </div>
@@ -140,10 +140,10 @@
                         <h4><i class="fa fa-fw fa-futbol-o"></i> Performance</h4>
                     </div>
                     <div class="panel-body">
-                    	<img src="http://cdn3.bigcommerce.com/s-13ttxa/product_images/uploaded_images/performance-training.jpg?t=1414795384" width="100%"/>
+                    	<a href="performance.jsp"><img src="http://cdn3.bigcommerce.com/s-13ttxa/product_images/uploaded_images/performance-training.jpg?t=1414795384" width="100%"/></a>
                        	<hr>
-                        <p>The players performance through training and their progress in the gym will be recorded and reported at the end of every session. The player’s own view of his/her performance and their manager’s view (where applicable) will be logged. </p>
-                        <a href="#" class="btn btn-default">Learn More</a>
+                        <p>The players performance through training and their progress in the gym will be recorded and reported at the end of every session. The player's own view of his/her performance and their manager's view (where applicable) will be logged. </p>
+                        <a href="peformance.jsp" class="btn btn-default">Learn More</a>
                     </div>
                 </div>
             </div>
@@ -153,10 +153,10 @@
                         <h4><i class="fa fa-fw fa-spoon"></i> Nutritional</h4>
                     </div>
                     <div class="panel-body">
-                    	<img src="http://www.nutraingredients.com/var/plain_site/storage/images/publications/food-beverage-nutrition/nutraingredients.com/regulation-policy/sports-nutrition-is-still-in-regulatory-limbo-says-essna-paper/9684333-1-eng-GB/Sports-nutrition-is-still-in-regulatory-limbo-says-ESSNA-paper_strict_xxl.jpg" width="100%"/>
+                    	<a href="nutrition.jsp"><img src="http://www.nutraingredients.com/var/plain_site/storage/images/publications/food-beverage-nutrition/nutraingredients.com/regulation-policy/sports-nutrition-is-still-in-regulatory-limbo-says-essna-paper/9684333-1-eng-GB/Sports-nutrition-is-still-in-regulatory-limbo-says-ESSNA-paper_strict_xxl.jpg" width="100%"/></a>
                        	<hr>
                         <p>Aside from training, nutrition is also a key factor. One manager might want their player to follow a certain diet plan to bulk up, whereas the other manager might have a different opinion of that diet plan.</p>
-                        <a href="#" class="btn btn-default">Learn More</a>
+                        <a href="nutrition.jsp" class="btn btn-default">Learn More</a>
                     </div>
                 </div>
             </div>
@@ -208,8 +208,21 @@
         <!-- Footer -->
         <footer>
             <div class="row">
-                <div class="col-lg-12">
+                <div class="col-lg-4"  style="text-align:left;">
+                	<a href="index.jsp"> Home |</a>
+                    <a href="contact.jsp"> Contact Us |</a>
+                    <a href="https://www.google.ie/maps/place/Athlone+Institute+of+Technology/@53.4189394,-7.905093,15z/data=!4m2!3m1!1s0x0:0x1f3a077e5c4fdffd"> Where are we? |</a>
+                    <a href="meetTheTeam.jsp"> Meet the Team</a>
+                </div>  
+                <div class="col-lg-4"  style="text-align:center;">  
+                	<img src="images/gaa.png" width="35"/>
+                    <br>
                     <p>Copyright &copy; 2016</p>
+                </div>
+                <div class="col-lg-4" style="text-align:right;">
+                	<a href="#"> Training |</a>
+                    <a href="#"> Nutrition |</a>
+                    <a href="#"> Peformance </a>
                 </div>
             </div>
         </footer>
