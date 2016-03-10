@@ -50,16 +50,8 @@
                     <li>
                         <a href="contact.html">Contact</a>
                     </li>
-                    <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Options <b class="caret"></b></a>
-                        <ul class="dropdown-menu">
-                            <li>
-                                <a href="">Sign Up/Log in</a>
-                            </li>
-                            <li>
-                                <a href="pricing.jsp">Pricing Table</a>
-                            </li>
-                        </ul>
+                    <li>
+                        <a href="register.jsp" class="btn btn-primary">Sign Up/Login</a>
                     </li>
                 </ul>
             </div>
@@ -126,7 +118,7 @@
                 <div class="col-lg-4"  style="text-align:center;">  
                 	<img src="images/gaa.png" width="35"/>
                     <br>
-                    <p>Copyright &copy; 2016</p>
+                    <p><strong>Copyright &copy; 2016</strong></p>
                 </div>
                 <div class="col-lg-4" style="text-align:right;">
                 	<a href="#"> Training |</a>

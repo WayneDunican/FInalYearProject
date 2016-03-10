@@ -50,16 +50,8 @@
                     <li>
                         <a href="contact.html">Contact</a>
                     </li>
-                    <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Options <b class="caret"></b></a>
-                        <ul class="dropdown-menu">
-                            <li>
-                                <a href="register.jsp">Sign Up/Log in</a>
-                            </li>
-                            <li>
-                                <a href="pricing.jsp">Pricing Table</a>
-                            </li>
-                        </ul>
+                    <li>
+                        <a href="register.jsp" class="btn btn-primary">Sign Up/Login</a>
                     </li>
                 </ul>
             </div>
@@ -163,47 +155,7 @@
         </div>
         <!-- /.row -->
 
-    <!--     Portfolio Section
-        <div class="row">
-            <div class="col-lg-12">
-            </div>
-            <div class="col-md-4 col-sm-6">
-                <a href="">
-                    <img class="img-responsive img-portfolio img-hover" src="http://www.fourmastersgaa.com/wp-content/uploads/GAA-logo-on-white.png" alt="">
-                </a>
-            </div>
-            <div class="col-md-4 col-sm-6">
-                <a href="">
-                    <img class="img-responsive img-portfolio img-hover" src="https://12elfthman.files.wordpress.com/2014/09/pt_136_tim_howard_19092014.jpg" alt="">
-                </a>
-            </div>
-            <div class="col-md-4 col-sm-6">
-                <a href="">
-                    <img class="img-responsive img-portfolio img-hover" src="http://www.ppai.ie/photos/public/large/83/1303.jpg" alt="">
-                </a>
-            </div>
-            <div class="col-md-4 col-sm-6">
-                <a href="">
-                    <img class="img-responsive img-portfolio img-hover" src="http://cdn-03.independent.ie/incoming/article29305526.ece/6f40c/ALTERNATES/h342/galvin.jpg" alt="">
-                </a>
-            </div>
-            <div class="col-md-4 col-sm-6">
-                <a href="">
-                    <img class="img-responsive img-portfolio img-hover" src="http://images.kineticasports.com/images/products/zoom/1322233800-30649800.jpg" alt="">
-                </a>
-            </div>
-            <div class="col-md-4 col-sm-6">
-                <a href="">
-                    <img class="img-responsive img-portfolio img-hover" src="http://www.fourmastersgaa.com/wp-content/uploads/GAA-logo-on-white.png" alt="">
-                </a>
-            </div>
-        </div>
-        /.row
- -->
-       
-
-        <hr>
-
+	<hr>
 
         <!-- Footer -->
         <footer>
@@ -217,7 +169,6 @@
                 <div class="col-lg-4"  style="text-align:center;">  
                 	<img src="images/gaa.png" width="35"/>
                     <br>
-                    <p>Copyright &copy; 2016</p>
                 </div>
                 <div class="col-lg-4" style="text-align:right;">
                 	<a href="#"> Training |</a>
