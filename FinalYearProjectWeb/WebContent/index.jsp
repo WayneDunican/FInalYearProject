@@ -11,9 +11,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
+    
+	<link rel="icon" href="images/gaa.ico" type="image/x-icon">
 
     <title>GAA Player Training and Nutrition</title>
-	<link rel="icon" href="images/gaa.ico" type="image/x-icon">
 
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
@@ -48,7 +49,7 @@
                         <a href="services.html">Services</a>
                     </li>
                     <li>
-                        <a href="contact.html">Contact</a>
+                        <a href="contact.jsp">Contact</a>
                     </li>
                     <li>
                         <a href="register.jsp" class="btn btn-primary">Sign Up/Login</a>

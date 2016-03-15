@@ -12,7 +12,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Register</title>
+    <title>Contact Us</title>
 	<link rel="icon" href="images/gaa.ico" type="image/x-icon">
 
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -67,7 +67,7 @@
         <div class="row">
             <div class="col-lg-12">
                 <h1 class="page-header">
-                    Register
+                    Contact Us
                 </h1>
 			</div>
 			<div class="container">
@@ -77,45 +77,36 @@
 	        
 	    </div>
 			<div class="row">
-            <div class="col-md-8" >
-                <h3>Enter Details</h3>
-                <form name="register" id="registerForm"  novalidate >
-                	<br>
-                    <div class="input-group">
-					  	<input type="text" class="form-control" placeholder="Full Name" aria-describedby="basic-addon2">
-					  	<span class="input-group-addon" id="basic-addon2">e.g John Doe</span>
-					</div>
-					<br>
-                    <div class="input-group">
-					 	<span class="input-group-addon" id="basic-addon1">@</span>
-					  	<input type="text" class="form-control" placeholder="Username" aria-describedby="basic-addon1">
-					</div>
-					<br>
-                    <div class="input-group">
-					  	<input type="text" class="form-control" placeholder="Email Address" aria-describedby="basic-addon2">
-					  	<span class="input-group-addon" id="basic-addon2">@example.com</span>
-					</div>
-					<br>
-                    <div id="success"></div>
-                    <!-- For success/fail messages -->
-                    <button type="submit" class="btn btn-success">Register</button>
-                </form>
-            </div>
-			<div class="col-md-4" style="float:right;">
-                <div class="panel panel-default">
-                
-                    <div class="panel-heading">
-                        <h4> Already Registered?</h4>
-                    </div>
-                    <div class="panel-body">
-                    	<a href="login.jsp" class="btn btn-primary" style="width:100%;">Login</a>
-                       	<hr>
-                       	<p>Already a member? Click here to login.</p>
-                        
-                    </div>
-                </div>
-            
-	        </div>
+	            <div class="col-md-8" >
+	                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9511.068559721996!2d-7.905050084655771!3d53.418990551580634!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1f3a077e5c4fdffd!2sAthlone+Institute+of+Technology!5e0!3m2!1sen!2sie!4v1458040476316" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+	            </div>
+				<div class="col-md-4">
+	                <h3>Contact Details</h3>
+                <p>
+                    Athlone Institute of Technology,<br>
+					Dublin Road,<br>
+					Athlone,<br>
+					Co. Westmeath,<br>
+					Ireland.
+                </p>
+                <p><i class="fa fa-phone"></i> 
+                    <abbr title="Phone">Phone</abbr>: +353 (0)90 646 8000</p>
+                <p><i class="fa fa-envelope-o"></i> 
+                    <abbr title="Email">Email</abbr>: <a href="mailto:info@ait.ie">info@ait.ie</a>
+                </p>
+                <ul class="list-unstyled list-inline list-social-icons">
+                	<li>
+                        <a href="#"><i class=""></i></a>
+                    </li>
+                    <li>
+                        <a href="#"><i class="fa fa-facebook-square fa-2x"></i></a>
+                    </li>
+                    <li>
+                        <a href="#"><i class="fa fa-twitter-square fa-2x"></i></a>
+                    </li>
+                </ul>
+	            
+		        </div>
         </div>
         <!-- /.row -->
         

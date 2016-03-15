@@ -12,7 +12,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Register</title>
+    <title>Nutrition</title>
 	<link rel="icon" href="images/gaa.ico" type="image/x-icon">
 
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -63,69 +63,107 @@
     <!-- Page Content -->
     <div class="container">
 
-        <!-- Marketing Icons Section -->
+        <!-- Page Heading/Breadcrumbs -->
         <div class="row">
             <div class="col-lg-12">
-                <h1 class="page-header">
-                    Register
+                <h1 class="page-header">Nutrition 
+                    <small>Overview</small>
                 </h1>
-			</div>
-			<div class="container">
-
-	        <!-- Marketing Icons Section -->
-	        
-	        
-	    </div>
-			<div class="row">
-            <div class="col-md-8" >
-                <h3>Enter Details</h3>
-                <form name="register" id="registerForm"  novalidate >
-                	<br>
-                    <div class="input-group">
-					  	<input type="text" class="form-control" placeholder="Full Name" aria-describedby="basic-addon2">
-					  	<span class="input-group-addon" id="basic-addon2">e.g John Doe</span>
-					</div>
-					<br>
-                    <div class="input-group">
-					 	<span class="input-group-addon" id="basic-addon1">@</span>
-					  	<input type="text" class="form-control" placeholder="Username" aria-describedby="basic-addon1">
-					</div>
-					<br>
-                    <div class="input-group">
-					  	<input type="text" class="form-control" placeholder="Email Address" aria-describedby="basic-addon2">
-					  	<span class="input-group-addon" id="basic-addon2">@example.com</span>
-					</div>
-					<br>
-                    <div id="success"></div>
-                    <!-- For success/fail messages -->
-                    <button type="submit" class="btn btn-success">Register</button>
-                </form>
+                <ol class="breadcrumb">
+                    <li><a href="index.jsp">Home</a>
+                    </li>
+                    <li class="active">Nutrition</li>
+                </ol>
             </div>
-			<div class="col-md-4" style="float:right;">
-                <div class="panel panel-default">
-                
-                    <div class="panel-heading">
-                        <h4> Already Registered?</h4>
-                    </div>
-                    <div class="panel-body">
-                    	<a href="login.jsp" class="btn btn-primary" style="width:100%;">Login</a>
-                       	<hr>
-                       	<p>Already a member? Click here to login.</p>
-                        
-                    </div>
-                </div>
-            
-	        </div>
         </div>
         <!-- /.row -->
-        
-            <hr>
-            
+
+        <!-- Portfolio Item Row -->
+        <div class="row">
+
+            <div class="col-md-6">
+                <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+                    <!-- Indicators -->
+                    <ol class="carousel-indicators">
+                        <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+                        <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+                        <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+                    </ol>
+
+                    <!-- Wrapper for slides -->
+                    <div class="carousel-inner">
+                        <div class="item active">
+                            <img class="img-responsive" src="https://yangsaisi.files.wordpress.com/2014/08/nutrition.jpg" alt="">
+                            
+                        </div>
+                        <div class="item">
+                            <img class="img-responsive" src="http://cdn3.bigcommerce.com/s-ea2phhxz/products/108/images/374/athletes_stack_ic_red_protein_bcaas_1__41879.1425507569.1280.1280.jpg?c=2" alt="">
+                        </div>
+                        <div class="item">
+                            <img class="img-responsive" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Protein_shake.jpg" alt="">
+                        </div>
+                    </div>
+
+                    <!-- Controls -->
+                    <a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
+                        <span class="glyphicon glyphicon-chevron-left"></span>
+                    </a>
+                    <a class="right carousel-control" href="#carousel-example-generic" data-slide="next">
+                        <span class="glyphicon glyphicon-chevron-right"></span>
+                    </a>
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                <h3>Nutrition Monitoring</h3>
+                <ul>
+                    <li>Manager integration</li>
+                    <li>Logged Calorie Intake</li>
+                    <li>*</li>
+                    <li>Player/Manager reports</li>
+                </ul>
+                <p>
+	                Aside from training, nutrition is also a key factor. One manager might want their player to 
+	                follow a certain diet plan to bulk up, 
+	                whereas the other manager might have a different opinion of that diet plan.
+                </p>
+                
+            </div>
+
         </div>
-        
+        <!-- /.row -->
+
+        <!-- Related Projects Row -->
+        <div class="row">
+
+            <div class="col-lg-12">
+                <h3 class="page-header"></h3>
+            </div>
+
+            <div class="col-sm-4 col-xs-4">
+                <a href="#">
+                    <img class="img-responsive img-hover img-related" src="images/Galway_boys_warm_up2014.png" alt="">
+                </a>
+            </div>
+
+            <div class="col-sm-4 col-xs-4">
+                <a href="#">
+                    <img class="img-responsive img-hover img-related" src="images/SINIannounceDartfishPartnership2.jpg" alt="">
+                </a>
+            </div>
+
+            <div class="col-sm-4 col-xs-4">
+                <a href="#">
+                    <img class="img-responsive img-hover img-related" src="images/Avonmore.png" alt="">
+                </a>
+            </div>
+
+
+        </div>
+        <!-- /.row -->
+
         <hr>
-	<!-- Footer -->
-        <footer>
+    <footer>
             <div class="row">
                 <div class="col-lg-4"  style="text-align:left;">
                 	<a href="index.jsp"> Home |</a>
@@ -144,8 +182,13 @@
                 </div>
             </div>
         </footer>
+        </div>
+        
+        <hr>
+	<!-- Footer -->
+        
 
-    </div>
+    
     <!-- /.container -->
 
     <!-- jQuery -->

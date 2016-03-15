@@ -118,7 +118,6 @@
                 <div class="col-lg-4"  style="text-align:center;">  
                 	<img src="images/gaa.png" width="35"/>
                     <br>
-                    <p><strong>Copyright &copy; 2016</strong></p>
                 </div>
                 <div class="col-lg-4" style="text-align:right;">
                 	<a href="#"> Training |</a>
